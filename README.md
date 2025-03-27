@@ -1,3 +1,6 @@
+![logo](https://github.com/TarunGoel93/TarunGoel93/blob/main/github-header-image%20(1).png)
+
+
 <h1 align="center">Hi 👋, I'm Satvik chauhan</h1>
 <h3 align="center">Satvik chauhan | Aspiring Developer</h3>
 
