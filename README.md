@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Satvik chauhan</h1>
 <h3 align="center">Satvik chauhan | Aspiring Developer</h3>
-<img align="right" alt="coding" width=300 boder-radius=10 src="https://media1.tenor.com/m/8RkyVXzR3MMAAAAd/thoda-serious-seriously.gif">
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.giff">
 - 🔭 I’m currently working on **Quick rent**
 
 - 🌱 I’m currently learning **programing**
