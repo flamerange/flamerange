@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Satvik+Chauhan+👋;Aspiring+Developer+%7C+Builder;Currently+building+Quick+Rent+🚀;C%2B%2B+•+Python+•+HTML;Overthinker+%26+Code+Lover+⚡&center=true&size=24&width=650&duration=3500&pause=1200&color=00F5FF&background=00000000" alt="Typing SVG" />
+
 
 <br/>
 
