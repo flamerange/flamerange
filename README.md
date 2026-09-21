@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-satvik--chauhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/satvik-chauhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-satvik--chauhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-chauhan-783914327/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-satvik--chauhan231-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/satvikchauhan231)
 [![Kaggle](https://img.shields.io/badge/Kaggle-satvikchauhan22-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/satvikchauhan22)
 [![CodeChef](https://img.shields.io/badge/CodeChef-satvik__231-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://codechef.com/users/satvik_231)
@@ -118,7 +118,7 @@ Currently in active development — focusing on clean UX, smooth flows, and maki
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/satvik-chauhan" target="blank">
+<a href="https://www.linkedin.com/in/satvik-chauhan-783914327/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satvik chauhan" height="30" width="40" />
 </a>
 <a href="https://kaggle.com/satvikchauhan22" target="blank">
